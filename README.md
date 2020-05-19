@@ -1,7 +1,7 @@
-# Programación en Entornos Distribuidos
+# Ingurune Banatuetako Programazioa
 
-## Examen de Convocatoria Ordinaria (2019/2020)
+## Ohiko Deialdiko Azterketa (2019/2020)
 
-Repositorio para el examen de la convocatoria ordinaria de *Programación en Entornos Distribuidos*, asignatura de segundo curso del *Grado en Ingeniería en Tecnología de Telecomunicación* de la UPV/EHU.
+UPV/EHUko *Telekomunikazio Teknologiaren Ingeniaritza Graduko* bigarren mailako *Ingurune Banatuetako Programazioa* ikasgaiaren ohiko deialdiko azterketarako Biltegia.
 
-Este repositorio debe actualizarse únicamente a través del programa **GitMonitor**.
+Biltegi hau soilik **GitMonitor** programa erabiliz egunera daiteke.
